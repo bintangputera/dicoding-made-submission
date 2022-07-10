@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">Movie App</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="label_upcoming_movie">Upcoming Movie</string>
+    <string name="label_popular">Popular</string>
+    <string name="action_see_more">See More</string>
+    <string name="label_playing_now">Playing Now</string>
+    <string name="label_cast">Cast</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_search">Search</string>
+    <string name="message_data_is_empty">Data is empty</string>
+    <string name="title_popular_movie">Popular Movie</string>
+    <string name="title_playing_now">Playing Now</string>
+    <string name="title_delete_favorite_dialog">Delete Favorite</string>
+    <string name="message_delete_favorite_dialog">Are you sure to delete this user from favorite ?</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="label_adult" translatable="false">18+</string>
+    <string name="desc_movie_thumbnail">Movie Thumbnail</string>
+    <string name="desc_btn_add_favorite">Button to add favorite</string>
+    <string name="desc_logo_app">Logo App</string>
 </resources>
